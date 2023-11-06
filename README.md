@@ -46,7 +46,7 @@ My journey in technology is an endless path. I am committed to continuous learni
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"></td>
-    <td>SovaMe Esta #4134</td>
+    <td>Toskan #4134</td>
   </tr>
   <tr>
     <td><a href="https://steamcommunity.com/id/Toskan4134/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a></td>
