@@ -1,5 +1,5 @@
 # Hey! I'm Ángel 😇
-I am Ángel, also known as Toskan4134. I'm 20 years old and I'm passionate about technology and programming. I have studied web programming and I am now expanding my knowledge in artificial intelligence and multi-platform application development. My goal is to explore new horizons and be part of the technological revolution.
+I am Ángel, also known as Toskan4134. I'm 21 years old and I'm passionate about technology and programming. I have studied web programming and I am now expanding my knowledge in artificial intelligence and multi-platform application development. My goal is to explore new horizons and be part of the technological revolution.
 
 There are no limits to my thirst for knowledge, and I plan to continue studying. In the future, I will focus on cybersecurity and game development, even if it's more as a hobby.
 
