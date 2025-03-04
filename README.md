@@ -70,3 +70,9 @@ My journey in technology is an endless path. I am committed to continuous learni
 ## Social media
 [<img src="https://badgen.net/badge/icon/Discord/5865F2?icon=discord&label">](https://discordapp.com/users/356817504330448906)
 [<img src="https://badgen.net/badge/icon/Twitter/1DA1F2?icon=twitter&label">](https://twitter.com/toskan4134)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toskan4134/Toskan4134/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toskan4134/Toskan4134/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Toskan4134/Toskan4134/output/github-snake.svg" />
+</picture>
