@@ -1,5 +1,5 @@
 # Hey! I'm Ángel 😇
-I am Ángel, also known as Toskan4134. I'm 21 years old and I'm passionate about technology and programming. I have studied web programming and I am now expanding my knowledge in artificial intelligence and multi-platform application development. My goal is to explore new horizons and be part of the technological revolution.
+I am Ángel, also known as Toskan4134. I'm 22 years old and I'm passionate about technology and programming. I have studied web programming and I am now expanding my knowledge in artificial intelligence and multi-platform application development. My goal is to explore new horizons and be part of the technological revolution.
 
 There are no limits to my thirst for knowledge, and I plan to continue studying. In the future, I will focus on cybersecurity and game development, even if it's more as a hobby.
 
@@ -68,7 +68,7 @@ My journey in technology is an endless path. I am committed to continuous learni
 ![](https://github-readme-stats.vercel.app/api?username=toskan4134&show_icons=true&theme=dark&rank_icon=github)
 
 ## Social media
-[<img src="https://badgen.net/badge/icon/Discord/5865F2?icon=discord&label">](https://discordapp.com/users/356817504330448906)
+[<img src="https://badgen.net/badge/icon/Discord/5865F2?icon=discord&label">](https://discord.gg/jTPbjGqj)
 [<img src="https://badgen.net/badge/icon/Twitter/1DA1F2?icon=twitter&label">](https://twitter.com/toskan4134)
 
 <picture>
