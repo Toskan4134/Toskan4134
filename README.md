@@ -63,9 +63,9 @@ My journey in technology is an endless path. I am committed to continuous learni
 </table>
 
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toskan4134&layout=compact&theme=dark)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toskan4134&layout=compact&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=toskan4134&show_icons=true&theme=dark&rank_icon=github)
+![](https://github-readme-stats-fast.vercel.app/api?username=toskan4134&show_icons=true&theme=dark&rank_icon=github)
 
 ## Social media
 [<img src="https://badgen.net/badge/icon/Discord/5865F2?icon=discord&label">](https://discord.gg/jTPbjGqj)
